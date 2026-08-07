@@ -7,5 +7,5 @@ import react from "@vitejs/plugin-react";
 // <username>.github.io), leave base as "/".
 export default defineConfig({
   plugins: [react()],
-  base: "/helen-k-site/",
+  base: "/helenksite/",
 });
